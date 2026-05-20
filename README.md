@@ -36,3 +36,6 @@ Machine Learning: TensorFlow/Keras (LSTM)
 Visualización: Plotly Express, Matplotlib
 
 Reportes: FPDF, Plotly Kaleido
+
+
+
