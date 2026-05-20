@@ -24,9 +24,15 @@ SPIS-ML es una plataforma académica para analizar y visualizar información sí
 *Tecnologías*
 
 Backend: Python 3.8+
+
 Frontend: Dash + Plotly
+
 UI Framework: Dash Bootstrap Components
+
 Data Science: Pandas, NumPy, Scikit-learn
+
 Machine Learning: TensorFlow/Keras (LSTM)
+
 Visualización: Plotly Express, Matplotlib
+
 Reportes: FPDF, Plotly Kaleido
