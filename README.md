@@ -4,13 +4,21 @@ SPIS-ML es una plataforma académica para analizar y visualizar información sí
 *Características Principales*
 
 🏠 Monitoreo en Tiempo Real: Integración con USGS para datos sísmicos actualizados automáticamente
+
 🗺️ Exploración Geográfica: Visualización interactiva de eventos sísmicos en mapas globales
+
 📊 Análisis Gutenberg-Richter: Modelado estadístico de la relación magnitud-frecuencia
+
 📈 Regresión Logarítmica: Análisis predictivo de patrones sísmicos
+
 🧠 LSTM Prediction: Red neuronal para predicción de secuencias temporales
+
 🔄 Comparativa de Modelos: Evaluación y comparación de múltiples metodologías
+
 🎯 Análisis de Densidad: Identificación de zonas de alta actividad sísmica
+
 📋 Reportes Gerenciales: Generación automática de informes ejecutivos (PDF/CSV)
+
 📚 Glosario Académico: Base de conocimiento técnico curado
 
 *Tecnologías*
