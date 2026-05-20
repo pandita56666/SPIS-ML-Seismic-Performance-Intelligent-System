@@ -1,7 +1,7 @@
 # SPIS-ML-Seismic-Performance-Intelligent-System
 SPIS-ML es una plataforma académica para analizar y visualizar información sísmica. Integra machine learning, análisis estadístico y mapas interactivos para estudiar la actividad sísmica global. Incluye monitoreo en tiempo real, modelos predictivos, análisis de densidad y generación automática de reportes.
 
-*Características Principales*
+# *Características Principales*
 
 🏠 Monitoreo en Tiempo Real: Integración con USGS para datos sísmicos actualizados automáticamente
 
@@ -21,7 +21,7 @@ SPIS-ML es una plataforma académica para analizar y visualizar información sí
 
 📚 Glosario Académico: Base de conocimiento técnico curado
 
-*Tecnologías*
+# *Tecnologías*
 
 Backend: Python 3.8+
 
@@ -34,6 +34,9 @@ Data Science: Pandas, NumPy, Scikit-learn
 Machine Learning: TensorFlow/Keras (LSTM)
 
 Visualización: Plotly Express, Matplotlib
+
+# Instalación 
+
 
 Reportes: FPDF, Plotly Kaleido
 
